@@ -1,6 +1,6 @@
 # Java Projects
 
-This repository contains my most recent Java Projects. Assignment 3 is a fully-fledged program with user interface and game logic.
+This repository contains my most recent Java Projects. Currently there are a total of 5 separate projects included.
 
 
 Assignment 1 - Recursions.

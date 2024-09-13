@@ -1,3 +1,8 @@
+# Java Projects
+
+This repository contains my most recent Java Projects. Assignment 3 is a fully-fledged program with user interface and game logic.
+
+
 Assignment 1 - Recursions.
 
 Assignment 2 - Time complexity computation and optimizations.
